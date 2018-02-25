@@ -2,9 +2,10 @@
 2017-18 Module 3 (Spring), Stochastic Finance
 
 ## Announcements
-* 
+* __[NEW]__ Email is the preferred method of communication. Mail list will be set up soon.
 
 ## Course Note
+* Supplementary to __SCFA__ (textbook). To be uploaded soon.
 
 ## Lectures:
 * __01__ (02.26 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/ProbStatsReview.pdf))
@@ -29,8 +30,9 @@
 * TA Office Hour: Monday & Friday 1:30PM - 3:20PM (Room 213/214)
 
 ##  Textbooks and Reading Materials
-* [Stochastic Calculus and Financial Applications](http://www-stat.wharton.upenn.edu/~steele/StochasticCalculus.html) by J. Michael Steele
+* __SCFA__: [Stochastic Calculus and Financial Applications](http://www-stat.wharton.upenn.edu/~steele/StochasticCalculus.html) by J. Michael Steele
 
 ## Assessment / Grading Details
 * Attendance 20%, Mid-term Exam 25%, Assignments 25%, Final Exam 30%
 * Mid-term exam will be in week 5 or 6
+* Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or above < 90%__.
