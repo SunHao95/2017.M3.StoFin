@@ -1,5 +1,4 @@
-# 2017.M3.StoFin
-2017-18 Module 3 (Spring), Stochastic Finance
+# 2017-18 Module 3 (Spring), Stochastic Finance
 
 ## Announcements
 * __[NEW]__ Email is the preferred method of communication. Mail list will be set up soon.
@@ -8,7 +7,7 @@
 * Supplementary to __SCFA__ (textbook). To be uploaded soon.
 
 ## Lectures:
-* __01__ (02.26 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/ProbStatsReview.pdf))
+* __01__ (02.26. Mon): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/ProbStatsReview.pdf))
 
 ## Homeworks:
 * ### __Set 1__
