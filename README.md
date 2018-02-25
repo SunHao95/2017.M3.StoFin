@@ -34,5 +34,7 @@
 
 ## Assessment / Grading Details
 * Attendance 20%, Mid-term Exam 25%, Assignments 25%, Final Exam 30%
-* Mid-term exam will be in week 5 or 6
+* __Mid-term exam__: TBA (week 5 or 6)
+* __Final exam__: 4.30. (Mon) 9 - 11AM
+* Exams are open-book without computer/phone/calculator use
 * Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or above < 90%__.
