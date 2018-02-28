@@ -8,7 +8,7 @@
 
 ## Lectures:
 * __01__ (02.26. Mon): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
-* __02__ (02.29. Thur) Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf)), Ch. 1
+* __02__ (03.01. Thur) Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf)), Ch. 1
 
 ## Homeworks:
 * ### __Set 1__
