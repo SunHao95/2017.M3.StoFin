@@ -1,4 +1,4 @@
-# 2017-18 Module 3 (Spring), Stochastic Finance
+# Stochastic Finance 2017-18 Module 3 (Spring 2018)
 
 ## Announcements
 * __[NEW]__ Email is the preferred method of communication. Mail list will be set up soon.
