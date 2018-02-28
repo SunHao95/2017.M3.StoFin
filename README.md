@@ -3,11 +3,12 @@
 ## Announcements
 * __[NEW]__ Email is the preferred method of communication. Mail list will be set up soon.
 
-## Course Note
-* Supplementary to __SCFA__ (textbook). To be uploaded soon.
+## [Course Note](files/SCFA_Notes.pdf)
+* Supplementary to textbook (__SCFA__).
 
 ## Lectures:
-* __01__ (02.26. Mon): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/ProbStatsReview.pdf))
+* __01__ (02.26. Mon): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
+* __02__ (02.29. Thur) Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf)), Ch. 1
 
 ## Homeworks:
 * ### __Set 1__
