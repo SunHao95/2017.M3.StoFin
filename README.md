@@ -15,6 +15,12 @@
 * ### __Set 2__
 * ### __Set 3__
 
+## Resources from past years
+* Exercise Problems, HW: [SCFA Exercices](files/SCFA_Exercise_Solution.pdf), [2016](files/SF2016_HW_Solution.pdf)
+* Midterm Exams: [2016](files/SF2016_Midterm_Solution.pdf)
+* Final Exams: [2016](files/SF2016_Final_Solution.pdf)
+
+
 ## Classes: 
 * Lectures: Monday & Thursday 10:30 AM – 12:20 PM
 * Venue: PHBS Building, Room 229
