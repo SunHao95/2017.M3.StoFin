@@ -1,7 +1,8 @@
 # Stochastic Finance 2017-18 Module 3 (Spring 2018)
 
 ## Announcements
-* __[NEW]__ Email is the preferred method of communication. Mail list will be set up soon.
+* __[NEW 3.4.]__ Added [Resources from Past Years](#resources-from-past-years)
+* [2.26.] Email is the preferred method of communication. Mail list will be set up soon.
 
 ## [Course Note](files/SCFA_Notes.pdf)
 * Supplementary to textbook (__SCFA__).
@@ -15,11 +16,10 @@
 * ### __Set 2__
 * ### __Set 3__
 
-## Resources from past years
+## Resources from Past Years
 * Exercise Problems, HW: [SCFA Exercices](files/SCFA_Exercise_Solution.pdf), [2016](files/SF2016_HW_Solution.pdf)
-* Midterm Exams: [2016](files/SF2016_Midterm_Solution.pdf)
+* Midterm Exams: [2016 ASP](files/ASP2016_Midterm_Solution.pdf) [2016](files/SF2016_Midterm_Solution.pdf)
 * Final Exams: [2016](files/SF2016_Final_Solution.pdf)
-
 
 ## Classes: 
 * Lectures: Monday & Thursday 10:30 AM – 12:20 PM
