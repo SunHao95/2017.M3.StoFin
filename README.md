@@ -8,8 +8,9 @@
 * Supplementary to textbook (__SCFA__).
 
 ## Lectures:
+* __03__ (03.05. Mon) SCFA Ch. 1.5 - 2
+* __02__ (03.01. Thur) Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf)), SCFA Ch. 1
 * __01__ (02.26. Mon): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
-* __02__ (03.01. Thur) Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf)), Ch. 1
 
 ## Homeworks:
 * ### __Set 1__
@@ -18,7 +19,7 @@
 
 ## Resources from Past Years
 * Exercise Problems, HW: [SCFA Exercices](files/SCFA_Exercise_Solution.pdf), [2016](files/SF2016_HW_Solution.pdf)
-* Midterm Exams: [2016 ASP](files/ASP2016_Midterm_Solution.pdf) [2016](files/SF2016_Midterm_Solution.pdf)
+* Midterm Exams: [2016 ASP](files/ASP2016_Midterm_Solution.pdf), [2016](files/SF2016_Midterm_Solution.pdf)
 * Final Exams: [2016](files/SF2016_Final_Solution.pdf)
 
 ## Classes: 
