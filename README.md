@@ -21,6 +21,8 @@
   2. Exercise 2.4 
 
 ### __Set 2__
+  1. Read [Bachelier's Bio Article](http://www-stat.wharton.upenn.edu/~steele/Courses/955/Resources/Bachelier100years.pdf)
+
 ### __Set 3__
 
 ## Resources from Past Years
