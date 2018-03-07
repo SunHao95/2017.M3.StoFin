@@ -1,16 +1,18 @@
 # Stochastic Finance 2017-18 Module 3 (Spring 2018)
 
 ## Announcements
-* __[NEW 3.4.]__ Added [Resources from Past Years](#resources-from-past-years)
-* [2.26.] Email is the preferred method of communication. Mail list will be set up soon.
+* __[NEW 3.7]__ Class mailing list is created as PHBS.StoFin@allmail.net. If you did not receive a test e-mail, let me know.
+* [3.4] Added [Resources from Past Years](#resources-from-past-years)
+* [2.26] Email is the preferred method of communication. Mail list will be set up soon.
 
 ## [Course Note](files/SCFA_Notes.pdf)
 * Supplementary to textbook (__SCFA__).
 
 ## Lectures:
-* __03__ (03.05. Mon) SCFA Ch. 1.5 - 2
-* __02__ (03.01. Thur) Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf)), SCFA Ch. 1
-* __01__ (02.26. Mon): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
+* __04__ (03.08 Thurs) SCFA Ch. 2.3 - 3.X
+* __03__ (03.05 Mon) SCFA Ch. 1.5 - 2.2
+* __02__ (03.01 Thur) Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf)), SCFA Ch. 1
+* __01__ (02.26 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
 
 ## Homeworks:
 * ### __Set 1__
@@ -42,6 +44,6 @@
 ## Assessment / Grading Details
 * Attendance 20%, Mid-term Exam 25%, Assignments 25%, Final Exam 30%
 * __Mid-term exam__: TBA (week 5 or 6)
-* __Final exam__: 4.30. (Mon) 9 - 11AM
+* __Final exam__: 4.30 (Mon) 9 - 11AM
 * Exams are open-book without computer/phone/calculator use
 * Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or above < 90%__.
