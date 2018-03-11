@@ -21,8 +21,6 @@
   2. Exercise 2.4 
   3. Read [Bachelier's Bio Article](http://www-stat.wharton.upenn.edu/~steele/Courses/955/Resources/Bachelier100years.pdf)
 
-### __Set 3__
-
 ## Resources from Past Years
 * Exercise Problems, HW: [SCFA Exercices](files/SCFA_Exercise_Solution.pdf), [2016](files/SF2016_HW_Solution.pdf)
 * Midterm Exams: [2016 ASP](files/ASP2016_Midterm_Solution.pdf), [2016](files/SF2016_Midterm_Solution.pdf)
