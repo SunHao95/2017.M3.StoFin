@@ -10,7 +10,8 @@
 * Supplementary to textbook (__SCFA__).
 
 ## Lectures:
-* __04__ (03.08 Thurs) SCFA Ch. 2.3 - 3.X, [World Series Derivative](files/World_Series.pdf)
+* __05__ (03.12 Mon) SCFA Ch. 3
+* __04__ (03.08 Thurs) SCFA Ch. 2.3 - 3, [World Series Derivative](files/World_Series.pdf)
 * __03__ (03.05 Mon) SCFA Ch. 1.5 - 2.2
 * __02__ (03.01 Thur) Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf)), SCFA Ch. 1
 * __01__ (02.26 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
