@@ -19,9 +19,7 @@
 ### __Set 1__ (Due by 3.19 Mon. Submit to TA at class)
   1. Using martingale, re-derive the result from Ch.1, $E(\tau) = AB$. (Read the textbook!)
   2. Exercise 2.4 
-
-### __Set 2__
-  1. Read [Bachelier's Bio Article](http://www-stat.wharton.upenn.edu/~steele/Courses/955/Resources/Bachelier100years.pdf)
+  3. Read [Bachelier's Bio Article](http://www-stat.wharton.upenn.edu/~steele/Courses/955/Resources/Bachelier100years.pdf)
 
 ### __Set 3__
 
