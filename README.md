@@ -16,7 +16,7 @@
 * __01__ (02.26 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
 
 ## Homeworks:
-### __Set 1__ (Due by 3.16 Fri)
+### __Set 1__ (Due by 3.19 Mon. Submit to TA at class)
   1. Using martingale, re-derive the result from Ch.1, $E(\tau) = AB$. (Read the textbook!)
   2. Exercise 2.4 
 
