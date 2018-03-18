@@ -12,6 +12,7 @@
 * Supplementary to textbook (__SCFA__).
 
 ## Lectures:
+* __07__ (03.19 Mon) HW 2, SCFA Ch. 6
 * __06__ (03.15 Thurs) SCFA Ch. 5, [Normal Model](files/Normal_Model.pdf)
 * __05__ (03.12 Mon) SCFA Ch. 4
 * __04__ (03.08 Thurs) SCFA Ch. 2.3 - 3, [World Series Derivative](files/World_Series.pdf)
