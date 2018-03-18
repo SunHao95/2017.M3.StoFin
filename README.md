@@ -26,9 +26,9 @@
   3. Read [Bachelier's Bio Article](http://www-stat.wharton.upenn.edu/~steele/Courses/955/Resources/Bachelier100years.pdf)
 
 ### __Set 2__ (Due by 3.26 Mon. Submit to TA at class)
-  1. Derive the price of __down-and-out call option__ (KO strike: Ko, Option strike: K): See the derivation for __up-and-out call option__ and __down-and-out digital option__ from the previous HW and exams.
-  2. Calculate the self-covariance of the Brownian bridge, `Cov(B_s - B_1 s, B_t - B_1 t)`
-  3. Calculate `Var(a B_t + b B_s)` for constants `a` and `b`
+  1. Calculate the self-covariance of the Brownian bridge, `Cov(B_s - B_1 s, B_t - B_1 t)`
+  2. Calculate `Var(a B_t + b B_s)` for constants `a` and `b`
+  3. Derive the price of __down-and-out call option__ (KO strike: Ko, Option strike: K): See the derivation for __up-and-out call option__ and __down-and-out digital option__ from the previous HW and exams.
 
 ## Resources from Past Years
 * Exercise Problems, HW: [SCFA Exercices](files/SCFA_Exercise_Solution.pdf), [2016](files/SF2016_HW_Solution.pdf)
