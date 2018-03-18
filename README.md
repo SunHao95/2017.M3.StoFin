@@ -1,8 +1,10 @@
 # Stochastic Finance 2017-18 Module 3 (Spring 2018)
 
 ## Announcements
-* __[NEW 3.7]__ See HW Set 1.
-* __[NEW 3.7]__ Class mailing list is created as PHBS.StoFin@allmail.net. If you did not receive a test e-mail, let me know.
+* __[NEW]__ HW 2
+* __[NEW]__ __Mid-term exam__: 4.2 (Mon) (Separate Classroom)
+* __[3.7]__ See HW Set 1.
+* __[3.7]__ Class mailing list is created as PHBS.StoFin@allmail.net. If you did not receive a test e-mail, let me know.
 * [3.4] Added [Resources from Past Years](#resources-from-past-years)
 * [2.26] Email is the preferred method of communication. Mail list will be set up soon.
 
@@ -22,6 +24,11 @@
   1. Using martingale, re-derive the result from Ch.1, $E(\tau) = AB$. (Read the textbook!)
   2. Exercise 2.4 
   3. Read [Bachelier's Bio Article](http://www-stat.wharton.upenn.edu/~steele/Courses/955/Resources/Bachelier100years.pdf)
+
+### __Set 2__ (Due by 3.26 Mon. Submit to TA at class)
+  1. Derive the price of __down-and-out call option__ (KO strike: Ko, Option strike: K): See the derivation for __up-and-out call option__ and __down-and-out digital option__ from the previous HW and exams.
+  2. Calculate the self-covariance of the Brownian bridge, `Cov(B_s - B_1 s, B_t - B_1 t)`
+  3. Calculate `Var(a B_t + b B_s)` for constants `a` and `b`
 
 ## Resources from Past Years
 * Exercise Problems, HW: [SCFA Exercices](files/SCFA_Exercise_Solution.pdf), [2016](files/SF2016_HW_Solution.pdf)
@@ -47,7 +54,7 @@
 
 ## Assessment / Grading Details
 * Attendance 20%, Mid-term Exam 25%, Assignments 25%, Final Exam 30%
-* __Mid-term exam__: TBA (week 5 or 6)
+* __Mid-term exam__: 4.2 (Mon) (Separate Classroom)
 * __Final exam__: 4.30 (Mon) 9 - 11AM
 * Exams are open-book without computer/phone/calculator use
 * Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or above < 90%__.
