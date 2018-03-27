@@ -2,7 +2,7 @@
 
 ## Announcements
 * __[NEW]__ HW 2
-* __[NEW]__ __Mid-term exam__: 4.2 (Mon) (Separate Classroom)
+* __[NEW]__ __Mid-term exam__: 4.2 (Mon) (__Rm 401__)
 * __[3.7]__ See HW Set 1.
 * __[3.7]__ Class mailing list is created as PHBS.StoFin@allmail.net. If you did not receive a test e-mail, let me know.
 * [3.4] Added [Resources from Past Years](#resources-from-past-years)
@@ -57,7 +57,7 @@
 
 ## Assessment / Grading Details
 * Attendance 20%, Mid-term Exam 25%, Assignments 25%, Final Exam 30%
-* __Mid-term exam__: 4.2 (Mon) (Separate Classroom)
+* __Mid-term exam__: 4.2 (Mon) (Rm 401)
 * __Final exam__: 4.30 (Mon) 9 - 11AM
 * Exams are open-book without computer/phone/calculator use
 * Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or above < 90%__.
