@@ -12,6 +12,7 @@
 * Supplementary to textbook (__SCFA__).
 
 ## Lectures:
+* __10__ (03.29 Thurs) Prep for mid-term exam
 * __09__ (03.26 Mon) SCFA Ch. 7 (Time-dependent volatility model/boot-strapping) Ch. 8
 * __08__ (03.22 Thurs) Multivariate Gaussian (Ch 3.1), SCFA Ch. 7
 * __07__ (03.19 Mon) HW 2, SCFA Ch. 6
