@@ -1,8 +1,8 @@
 # Stochastic Finance 2017-18 Module 3 (Spring 2018)
 
 ## Announcements
-* __[NEW]__ [Homework Solution](files/SF2017_HW_Solution.pdf)
-* __Mid-term exam__: 4.2 (Mon) (__Rm 401__)
+* [Homework Solution](files/SF2017_HW_Solution.pdf)
+* __Mid-term exam__: 4.2 (Mon) (__Rm 401__) [Solution](files/SF2017_Midterm.pdf)
 * __[3.7]__ See HW Set 1.
 * __[3.7]__ Class mailing list is created as PHBS.StoFin@allmail.net. If you did not receive a test e-mail, let me know.
 * [3.4] Added [Resources from Past Years](#resources-from-past-years)
