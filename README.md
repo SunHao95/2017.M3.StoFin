@@ -1,7 +1,7 @@
 # Stochastic Finance 2017-18 Module 3 (Spring 2018)
 
 ## Announcements
-* [Homework Solution](files/SF2017_HW_Solution.pdf)
+* __[4.9]__ HW Set 3 at the end of [Homework Solution](files/SF2017_HW_Solution.pdf)
 * __Mid-term exam__: 4.2 (Mon) (__Rm 401__) [Solution](files/SF2017_Midterm.pdf)
 * __[3.7]__ See HW Set 1.
 * __[3.7]__ Class mailing list is created as PHBS.StoFin@allmail.net. If you did not receive a test e-mail, let me know.
@@ -36,6 +36,8 @@
   1. Calculate the self-covariance of the Brownian bridge, `Cov(B_s - B_1 s, B_t - B_1 t)`
   2. Calculate `Var(a B_t + b B_s)` for constants `a` and `b`
   3. Derive the price of __down-and-out call option__ (KO strike: Ko, Option strike: K): See the derivation for __up-and-out call option__ and __down-and-out digital option__ from the previous HW and exams.
+
+### __Set 3__ (Due by 4.19 Thurs. Submit to TA at class)
 
 ## Resources from Past Years
 * Exercise Problems, HW: [SCFA Exercices](files/SCFA_Exercise_Solution.pdf), [2016](files/SF2016_HW_Solution.pdf)
