@@ -12,8 +12,9 @@
 * Supplementary to textbook (__SCFA__).
 
 ## Lectures:
+* __13__ (04.09 Mon) SCFA Ch. 9 (Black-Scholes)
 * __12__ (04.04 Wed) SCFA Ch. 8 (Examples), Ch. 9 (SDEs)
-* __11__ (04.02 Thurs) Midterm Exam, [Solution](files/SF2017_Midterm.pdf)
+* __11__ (04.02 Mon) Midterm Exam, [Solution](files/SF2017_Midterm.pdf)
 * __10__ (03.29 Thurs) Prep for mid-term exam
 * __09__ (03.26 Mon) SCFA Ch. 7 (Time-dependent volatility model/boot-strapping) Ch. 8
 * __08__ (03.22 Thurs) Multivariate Gaussian (Ch 3.1), SCFA Ch. 7
