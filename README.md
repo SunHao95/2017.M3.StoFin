@@ -8,7 +8,7 @@
 * [3.4] Added [Resources from Past Years](#resources-from-past-years)
 * [2.26] Email is the preferred method of communication. Mail list will be set up soon.
 
-## [Course Note](files/SCFA_Notes.pdf)
+## [Course Note](files/SCFA_Notes.pdf) ([Old Version](files/SCFA_Notes_Old.pdf))
 * Supplementary to textbook (__SCFA__).
 
 ## Lectures:
@@ -45,7 +45,7 @@
 * Midterm Exams: [2016 ASP](files/ASP2016_Midterm_Solution.pdf), [2016](files/SF2016_Midterm_Solution.pdf)
 * Final Exams: [2016](files/SF2016_Final_Solution.pdf)
 
-## Classes: 
+## Classes:
 * Lectures: Monday & Thursday 10:30 AM – 12:20 PM
 * Venue: PHBS Building, Room 229
 
@@ -59,7 +59,7 @@
 * Email: 1601213511@sz.pku.edu.cn
 * TA Office Hour: Monday & Friday 1:30PM - 3:20PM (Room 213/214)
 
-##  Textbooks and Reading Materials
+## Textbooks and Reading Materials
 * __SCFA__: [Stochastic Calculus and Financial Applications](http://www-stat.wharton.upenn.edu/~steele/StochasticCalculus.html) by J. Michael Steele
 
 ## Assessment / Grading Details
