@@ -12,6 +12,7 @@
 * Supplementary to textbook (__SCFA__).
 
 ## Lectures:
+* __13__ (04.12 Thurs) SCFA Ch. 10 (Black-Scholes), Ch. 11 (Representation Theory)
 * __13__ (04.09 Mon) SCFA Ch. 10 (Black-Scholes)
 * __12__ (04.04 Wed) SCFA Ch. 8 (Examples), Ch. 9 (SDEs)
 * __11__ (04.02 Mon) Midterm Exam, [Solution](files/SF2017_Midterm.pdf)
