@@ -15,7 +15,7 @@
 * __18__ (04.26 Thurs) Prep for final exam
 * __17__ (04.23 Mon) ...
 * __16__ (04.19 Thurs) ...
-* __15__ (04.16 Mon) SCFA Ch. 14 (Girsanov Theorem)
+* __15__ (04.16 Mon) SCFA Ch. 13 (Girsanov Theorem)
 * __14__ (04.12 Thurs) SCFA Ch. 10 (Black-Scholes), Ch. 11 (Representation Theory)
 * __13__ (04.09 Mon) SCFA Ch. 10 (Black-Scholes)
 * __12__ (04.04 Wed) SCFA Ch. 8 (Examples), Ch. 9 (SDEs)
