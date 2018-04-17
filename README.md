@@ -1,6 +1,7 @@
 # Stochastic Finance 2017-18 Module 3 (Spring 2018)
 
 ## Announcements
+* __Final exam__: 4.30 (Mon) (__Rm 519__)
 * __[4.9]__ HW Set 3 at the end of [Homework Solution](files/SF2017_HW_Solution.pdf)
 * __Mid-term exam__: 4.2 (Mon) (__Rm 401__) [Solution](files/SF2017_Midterm.pdf)
 * __[3.7]__ See HW Set 1.
@@ -12,14 +13,15 @@
 * Supplementary to textbook (__SCFA__).
 
 ## Lectures:
+* __Final Exam__ (04.30 Mon)
 * __18__ (04.26 Thurs) Prep for final exam
 * __17__ (04.23 Mon) ...
-* __16__ (04.19 Thurs) ...
+* __16__ (04.19 Thurs) SCFA Ch. 14 (Martingale pricing)
 * __15__ (04.16 Mon) SCFA Ch. 13 (Girsanov Theorem)
 * __14__ (04.12 Thurs) SCFA Ch. 10 (Black-Scholes), Ch. 11 (Representation Theory)
 * __13__ (04.09 Mon) SCFA Ch. 10 (Black-Scholes)
 * __12__ (04.04 Wed) SCFA Ch. 8 (Examples), Ch. 9 (SDEs)
-* __11__ (04.02 Mon) Midterm Exam, [Solution](files/SF2017_Midterm.pdf)
+* __11__ (04.02 Mon) __Midterm Exam__, [Solution](files/SF2017_Midterm.pdf)
 * __10__ (03.29 Thurs) Prep for mid-term exam
 * __09__ (03.26 Mon) SCFA Ch. 7 (Time-dependent volatility model/boot-strapping) Ch. 8
 * __08__ (03.22 Thurs) Multivariate Gaussian (Ch 3.1), SCFA Ch. 7
