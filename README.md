@@ -1,6 +1,7 @@
 # Stochastic Finance 2017-18 Module 3 (Spring 2018)
 
 ## Announcements
+* Solution for HW Set 3 added to [Homework Solution](files/SF2017_HW_Solution.pdf)
 * __Final exam__: 4.30 (Mon) (__Rm 519__)
 * __[4.9]__ HW Set 3 at the end of [Homework Solution](files/SF2017_HW_Solution.pdf)
 * __Mid-term exam__: 4.2 (Mon) (__Rm 401__) [Solution](files/SF2017_Midterm.pdf)
