@@ -1,8 +1,8 @@
 # Stochastic Finance 2017-18 Module 3 (Spring 2018)
 
 ## Announcements
+* __Final exam__: 4.30 (Mon) (__Rm 519__) [Solution](files/SF2017_Final.pdf)
 * Solution for HW Set 3 added to [Homework Solution](files/SF2017_HW_Solution.pdf)
-* __Final exam__: 4.30 (Mon) (__Rm 519__)
 * __[4.9]__ HW Set 3 at the end of [Homework Solution](files/SF2017_HW_Solution.pdf)
 * __Mid-term exam__: 4.2 (Mon) (__Rm 401__) [Solution](files/SF2017_Midterm.pdf)
 * __[3.7]__ See HW Set 1.
@@ -14,7 +14,7 @@
 * Supplementary to textbook (__SCFA__).
 
 ## Lectures:
-* __Final Exam__ (04.30 Mon)
+* __Final Exam__ (04.30 Mon), [Solution](files/SF2017_Final.pdf)
 * __18__ (04.26 Thurs) Prep for final exam
 * __17__ (04.23 Mon) ...
 * __16__ (04.19 Thurs) SCFA Ch. 14 (Martingale pricing)
